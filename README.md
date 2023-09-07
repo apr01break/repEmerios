@@ -3,8 +3,8 @@ Hola! Para ejecutar el archivo js debe seguir los siguientes pasos:
 Requisito: tener instalado alguna versión de Node.js  
 
 1. Clonar el repositorio.
-2. Acceder desde el explorador de archivos hasta donde están los 3 archivos.
-3. Abrir el cmd en esta dirección.
+2. Acceder desde el explorador de archivos hasta donde están los 3 archivos (Readme, input.txt y exercise.js).
+3. Abrir el cmd en la dirección donde están los 3 archivos.
 4. Ejecutar el comando "node exercise.js".
 
 Notas: 
