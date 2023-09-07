@@ -10,3 +10,6 @@ Requisito: tener instalado alguna versión de Node.js
 Notas: 
 - El archivo "input.txt" tiene la entrada del array multidimensional.
 - Puede usar cualquier consola de comandos, yo uso Powershell desde VS code por mi preferencia.
+
+
+MUCHAS GRACIAS
